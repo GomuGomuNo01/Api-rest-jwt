@@ -217,7 +217,7 @@ sequenceDiagram
 ### 1. Cloner et configurer
 
 ```bash
-git clone https://github.com/GomuGomuNo01/API_REST.git
+git clone https://github.com/GomuGomuNo01/api-rest-jwt.git
 cd jwt-api
 ```
 
